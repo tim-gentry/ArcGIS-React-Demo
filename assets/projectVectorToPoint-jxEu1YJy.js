@@ -1,0 +1,1 @@
+import{bp as i,bM as o}from"./index-DX0rcHuW.js";import{n as c}from"./projectVectorToVector-DjKO2tJh.js";function f(a,e,n){return!!c(a,e,r,n.spatialReference)&&(n.x=r[0],n.y=r[1],n.z=r[2],!0)}async function u(a,e,n,t){return await o(e,n.spatialReference,null,t),f(a,e,n)}const r=i();export{u as c,f as t};

@@ -1,0 +1,1 @@
+import{ac as t,ad as s,ag as o,bh as c}from"./index-DX0rcHuW.js";let e=class extends c{constructor(a){super(a),this.enabled=!1}};t([s({type:Boolean,nonNullable:!0})],e.prototype,"enabled",void 0),e=t([o("esri.views.interactive.sketch.SketchLabelOptions")],e);const l=e;export{l as c};

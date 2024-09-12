@@ -1,0 +1,1 @@
+import{p,j as a}from"./index-DX0rcHuW.js";function f(e){return{geometryType:p(e[0]),geometries:e.map(r=>r.toJSON())}}function i(e,r,o){const n=a(r);return e.map(m=>{const t=n.fromJSON(m);return t.spatialReference=o,t})}export{i as o,f as r};
